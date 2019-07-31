@@ -11,14 +11,14 @@ To install, download or clone the repo, then:
 `npm install`
 `truffle compile`
 
-## Requirements
+## Project Requirements
 
 This project meets following requirements:
 
 ### Airlines
-Register first airline when contract is deployed
-Only existing airline may register a new airline until ther are at least four airlines registered
-Registration of fifth and subsequent airlines requires multi-party consensus of 50% of registered airlines
+- Register first airline when contract is deployed
+- Only existing airline may register a new airline until ther are at least four airlines registered
+- Registration of fifth and subsequent airlines requires multi-party consensus of 50% of registered airlines
 
 
 ## Develop Client
