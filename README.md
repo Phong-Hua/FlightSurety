@@ -42,7 +42,6 @@ This project meets following requirements:
 ### General
 - Contracts must have operational status control, every functions change state in the contract should have ability to be paused
 - Functions must fail fast if failed - use require() at the start of functions
-- 
 
 ## Develop Client
 
